@@ -1,5 +1,4 @@
 ---
-title: This is a testpage!
 # Headline 1
 ## Headline 2
 Der schnelle Fuch springt über den Bach
